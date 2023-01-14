@@ -1,6 +1,6 @@
 # IOCL
 
-## Cartridge Tracking System
+## Hardware-Based Cartridge Tracking System
 
 This is a system to manage the issuing and tracking of cartridges in a company.
 
@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Prerequisites :
 - Python 3.10.8
-- Qr code scanning technology (optional)
+- Qr code scanning hardware
 
 #### Installation :
 
