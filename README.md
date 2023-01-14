@@ -44,7 +44,7 @@ ownership of material to IOCL.
 
 ### Code of Conduct
 
-See [Code of Conduct](CODE_OF_CONDUCT.md)
+See [CODE_OF_CONDUCT.md](https://www.contributor-covenant.org)
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at
