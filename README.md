@@ -40,7 +40,7 @@ make a good change or addition so that we may review it.
 Any contributions including but not limited to material used during
 communication will be owned by Indian Oil Cooperation Limited(IOCL). By contributing towards this work, you agree
 that you have proper rights to do the same especially towards transferring
-ownership of material to GUIST.
+ownership of material to IOCL.
 
 ### Code of Conduct
 
