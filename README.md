@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contributing
 
-> Everything is perfect and there is always room for improvement.
+> Everything is perfect and there are always rooom for improvements.
 
 Contributions are always welcome and appreciated. Before contributing to this
 work, kindly ensure that you are aware of the standards and principles that we
